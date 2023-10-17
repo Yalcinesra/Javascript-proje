@@ -1,0 +1,122 @@
+body{
+    background-color: #f8ccf2 !important;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+h2{
+    color:#fff;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px !important;
+    text-align: center;
+}
+
+h3{
+    color:#fff;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
+
+p,input,button{
+    
+    font-family: 'Montserrat', sans-serif !important;
+
+}
+
+.content{
+    width: 50%;
+    height: 80%;
+    position: absolute;
+    top:20%;
+    left: 25%;
+}
+
+.box{
+    font-size: 1rem !important;
+    background-color: #fff;
+    color:#0f0b0b;
+    margin:10px;
+    border-radius: 10px;
+    
+ 
+
+    
+}
+.card-body{
+    padding: 10px;
+   height: 40% !important;
+   
+}
+
+.head-to-do{
+    background-color: #f63e50;
+    border-radius: 10px 10px 0 0;
+    padding: 5px;
+    text-align: center;
+   
+    
+
+}
+.list-group{
+    
+list-style-type:none;
+}
+.head-completed{
+    background-color:#43a047;
+    border-radius: 10px 10px 0 0;
+    padding: 5px;
+    text-align: center;
+}
+.btn-add{
+    padding: 10px 30px !important;
+    font-size: 30px !important;
+}
+
+.mesaj{
+    margin-top: 1rem;
+}
+
+ul li {
+    color: rgb(41, 41, 41);
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  ul li {
+    background-color: #eee;
+    font-weight: bold;
+  }
+  
+  ul li:nth-child(even) {
+    background: #dde6f5;
+  }
+  
+  li i {
+    padding: 1rem;
+    color: #ea0a0a;
+    cursor: pointer;
+  }
+  
+  li i:hover {
+    opacity: 0.3;
+  }
+  
+li.checked > .fa-check {
+    color: #00e676;}
+
+    li p {
+        flex: 1;
+        /* diğer kardeşlerim cürmü kadar yer alsın, parentta geri kalan bütün yer benim olsun */
+      
+        font-size: 1.3rem;
+        padding: 5px;
+        margin-right: 3px;
+        margin-left: 3px;
+      }
+      li.checked > p {
+        color: rgb(41, 41, 41);
+        text-decoration: line-through;
+        font-weight: normal;
+      }
