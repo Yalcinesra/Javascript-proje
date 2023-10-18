@@ -32,8 +32,16 @@ const ekranaBastir = (data) => {
     
     <img src= ${eleman.person.image.medium} class="rounded mx-auto d-block mt-4"  width=60% />
     <h4 class= mt-4 > Name: <span class="text-danger"> ${eleman.person.name}</span> </h4>
+    <ul class="list-group list-group-flush">
+         <li class="list-group-item"><i class="fa-solid fa-person"></i>${eleman.person.gender} </li>
+
+
+          <li class="list-group-item"><i class="fas fa-lg fa-landmark"></i>${eleman.person.country.name} </li>
+          
+          <li class="list-group-item"><i class="fa-solid fa-cake-candles"></i>${eleman.person.birthday} </li>
+
+      </ul>
      <div class="card-body">
-     <h6 class=" fst-italic">${eleman.person.gender} </h6>
       <a href="#" class="btn btn-primary">Go somewhere</a>
     
   </div>  
