@@ -11,6 +11,7 @@ const units = "metric";
 const lang = "tr";
 
 
+
 const getWeather = async (e) => {
   e.preventDefault();
   // console.log(e);
@@ -49,7 +50,7 @@ function createWeather(sehir) {
   element.innerHTML += `
   <div class=" text-bg-light w-75 shadow p-3 mb-2 bg-body-tertiary rounded">
    
-    <p class="display-6">${sehir.name}<sup><span class=" text-bg-warning rounded text-light">tr </span></sup></p>
+    <p class="display-6">${sehir.name}<sup><span class=" country text-bg-warning rounded text-light">${sehir.sys.country} </span></sup></p>
     <p class="font-weight-bold display-2">${parseInt(sehir.main.temp)}°C</p>
     <div class="display-6"><img src=${iconUrl}></div>
     <p class="text-uppercase">${sehir.weather[0].main}</p>
