@@ -1,14 +1,14 @@
-
 /* RESET STYLES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 :root {
-  --bg_main: #0c6396;
-  --text_light: #fff;
-  --text_med: #53627c;
-  --text_dark: #1e2432;
-  --red: #ff1e42;
-  --darkred: #c3112d;
-  --orange: #ff8c00;
+  --bg_main: #f2e7c9;
+  --text_light: #842c64;
+  --text_med: #fff;
+  --text_dark: #f4edda;
+  /* --red: #6c4a8e; */
+  --red: #842c64;
+  --darkred: #6c2552;
+  --orange: #ede0bc;
 }
 
 * {
@@ -26,11 +26,15 @@ a {
 button {
   cursor: pointer;
 }
- 
+
+.flag {
+  cursor: pointer;
+}
+
 input {
   -webkit-appearance: none;
 }
- 
+
 button,
 input {
   border: none;
@@ -58,12 +62,10 @@ body {
 
 .container {
   width: 100%;
-  max-width: 1200px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 0 15px;
 }
-
-
 /* SECTION #1
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .top-banner {
@@ -77,6 +79,19 @@ body {
   padding: 0 0 30px 0;
 }
 
+.sub-title {
+  display: flex;
+  justify-content: space-between;
+}
+.right-container {
+  display: flex;
+}
+.left-container {
+  margin-top: 10px;
+}
+#lang {
+  margin-top: 10px;
+}
 .top-banner form {
   position: relative;
   display: flex;
@@ -91,7 +106,7 @@ body {
 }
 
 .top-banner form input::placeholder {
-  color: currentColor; 
+  color: currentColor;
 }
 
 .top-banner form button {
@@ -103,8 +118,21 @@ body {
   border-radius: 5px;
   background: var(--red);
   transition: background 0.3s ease-in-out;
+  color: #f2e7c9;
 }
-
+.clear-btn {
+  font-size: 1rem;
+  font-weight: bold;
+  background: var(--red);
+  transition: background 0.3s ease-in-out;
+  color: #f2e7c9;
+  height: 50px;
+  padding: 0rem 2rem;
+  border-radius: 5px;
+}
+.flag {
+  width: 50px;
+}
 .top-banner form button:hover {
   background: var(--darkred);
 }
@@ -117,6 +145,11 @@ body {
   min-height: 40px;
 }
 
+#locate {
+  font-size: 2rem;
+  padding: 5px 10px;
+  margin-left: 15px;
+}
 
 /* SECTION #2
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -139,7 +172,7 @@ body {
 }
 
 .ajax-section .city::after {
-  content: '';
+  content: "";
   width: 90%;
   height: 50px;
   position: absolute;
@@ -179,8 +212,8 @@ body {
   margin-top: 10px;
   width: 100px;
   height: 100px;
+  color: #f2e7c9;
 }
-
 
 /* FOOTER
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -195,20 +228,37 @@ body {
   color: var(--red);
 }
 
-#logo{
+#logo {
   width: 100px;
   height: 100px;
 }
 
-/* MQ
+/* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1020px) {
   body {
-    padding: 30px;
+    padding: 20px;
   }
-  
+
   .ajax-section .cities {
     grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .sub-title {
+    display: flex;
+    flex-direction: column;
+  }
+  .right-container {
+    display: flex;
+    order: 1;
+    justify-content: end;
+    margin-bottom: 4rem;
+  }
+  .left-container {
+    margin-top: 10px;
+    order: 2;
   }
 }
 
@@ -217,25 +267,26 @@ body {
   .ajax-section .city-temp {
     font-size: 3rem;
   }
-  
+
   .ajax-section {
     margin-top: 20px;
   }
-  
+
   .top-banner form {
     flex-direction: column;
     align-items: flex-start;
   }
-  
+
   .top-banner form input,
   .top-banner form button {
     width: 100%;
   }
 
   .top-banner form button {
-    margin: 20px 0 0 0;
+    padding: 15px 20px;
+    margin: 20px 0 0 15px;
   }
-  
+
   .top-banner form .msg {
     position: static;
     max-width: none;
@@ -248,16 +299,21 @@ body {
   }
 }
 
+.city-name {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
 @media screen and (max-width: 500px) {
   body {
     padding: 15px;
   }
-  
+
   .ajax-section .cities {
     grid-template-columns: repeat(1, 1fr);
   }
 }
-
 
 /* API Key banner
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
