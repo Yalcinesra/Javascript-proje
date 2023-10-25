@@ -36,8 +36,8 @@
 </tr>
 <tr>
 <td align="center">06</td>
-<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Js-Digital-Clock">Js-Digital Clock</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Js-Digital-Clock" rel="nofollow">Live Demo</a></td>
+<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Digital-clock">Js-Digital Clock</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Digital-clock" rel="nofollow">Live Demo</a></td>
 </tr>
 <tr>
 <td align="center">07</td>
