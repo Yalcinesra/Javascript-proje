@@ -74,6 +74,11 @@
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Weather-App">Weather-App</a></td>
 <td><a href="https://yalcinesra.github.io/Javascript-project/Weather-App" rel="nofollow">Live Demo</a></td>
 </tr>
+<tr>
+<td align="center">14</td>
+<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Weather">Weather</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Weather" rel="nofollow">Live Demo</a></td>
+</tr>
 
 </tbody>
 </table>
