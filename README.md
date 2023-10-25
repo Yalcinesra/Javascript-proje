@@ -12,7 +12,7 @@
 <tr>
 <td align="center">01</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Async-Person">Async-Person</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Async-Person" rel="nofollow">Live Demo</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Async-Person">Live Demo</a></td>
 </tr>
 <tr>
 <td align="center">02</td>
