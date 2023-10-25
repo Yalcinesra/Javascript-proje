@@ -1,4 +1,4 @@
-# Javascript-proje
+# Javascript Project
 
 <table border="1">
 <thead>
@@ -12,7 +12,7 @@
 <tr>
 <td align="center">01</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Async-Person">Async-Person</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Async-Person" rel="nofollow">Live Demo</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Async-Person">Live Demo</a></td>
 </tr>
 <tr>
 <td align="center">02</td>
@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td align="center">06</td>
-<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Digital-clock">Js-Digital Clock</a></td>
+<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Digital-clock">Digital Clock</a></td>
 <td><a href="https://yalcinesra.github.io/Javascript-project/Digital-clock" rel="nofollow">Live Demo</a></td>
 </tr>
 <tr>
@@ -73,6 +73,11 @@
 <td align="center">13</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Weather-App">Weather-App</a></td>
 <td><a href="https://yalcinesra.github.io/Javascript-project/Weather-App" rel="nofollow">Live Demo</a></td>
+</tr>
+<tr>
+<td align="center">14</td>
+<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Weather">Weather</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Weather" rel="nofollow">Live Demo</a></td>
 </tr>
 
 </tbody>
