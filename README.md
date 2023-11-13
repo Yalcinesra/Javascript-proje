@@ -16,13 +16,13 @@
 </tr>
 <tr>
 <td align="center">02</td>
-<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Async-Project-1">Async-Projet-1</a></td>
+<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Async-Project-1">Async-Project-1</a></td>
 <td><a href="https://yalcinesra.github.io/Javascript-project/Async-Project-1" rel="nofollow">Live Demo</a></td>
 </tr>
 <tr>
 <td align="center">03</td>
-<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Async-Projet-2">Async-Projet-2</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Async-Projet-2">Live Demo</a></td>
+<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Async-Project-2">Async-Project-2</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Async-Project-2">Live Demo</a></td>
 </tr>
 <tr>
 <td align="center">04</td>
