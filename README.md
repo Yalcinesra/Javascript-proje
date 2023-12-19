@@ -34,7 +34,7 @@
 <td align="center">04</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Calculator">Calculator</a></td>
 <td><a href="https://yalcinesra.github.io/Javascript-project/Calculator">Live Demo</a></td>
- <td><img src="" alt="" ></td>
+ <td><img src="https://github.com/Yalcinesra/Javascript-project/blob/main/Calculator/calculator.gif" alt="" ></td>
 </tr>
 <tr>
 <td align="center">05</td>
@@ -64,7 +64,7 @@
 <td align="center">09</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Random-User">Random-User</a></td>
 <td><a href="https://yalcinesra.github.io/Javascript-project/Random-User" target="_blank" rel="nofollow">Live Demo</a></td>
-   <td><img src="" alt="" ></td>
+   <td><img src="https://github.com/Yalcinesra/Javascript-project/blob/main/Random-User/randomUser.gif" alt="" ></td>
 </tr>
 <tr>
 <td align="center">10</td>
