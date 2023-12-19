@@ -76,7 +76,7 @@
 <td align="center">11</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/To-Do">To-Do</a></td>
 <td><a href="https://yalcinesra.github.io/Javascript-project/To-Do" target="_blank" rel="nofollow">Live Demo</a></td>
-   <td><img src="https://github.com/Yalcinesra/Javascript-project/blob/main/To-Do/todo.gif" alt="" ></td>
+   <td><img src="https://github.com/Yalcinesra/Javascript-project/blob/main/To-Do/todo.gif" width="450" alt="" ></td>
 </tr>
 <tr>
 <td align="center">12</td>
