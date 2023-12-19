@@ -11,12 +11,13 @@
 </tr>
 </thead>
 <tbody>
-<tr>
+  <tr>
 <td align="center">01</td>
-<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Async-Person">Async-Person</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Async-Person">Live Demo</a></td>
-  <td><img src="" alt="" ></td>
+<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Weather">Weather</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Weather" target="_blank" rel="nofollow">Live Demo</a></td>
+   <td><img src="" alt="" ></td>
 </tr>
+
 <tr>
 <td align="center">02</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Async-Project-1">Async-Project-1</a></td>
@@ -62,38 +63,38 @@
 <tr>
 <td align="center">09</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Random-User">Random-User</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Random-User" rel="nofollow">Live Demo</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Random-User" target="_blank" rel="nofollow">Live Demo</a></td>
    <td><img src="" alt="" ></td>
 </tr>
 <tr>
 <td align="center">10</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Rock-Paper-Scissors">Rock-Paper-Scissors</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Rock-Paper-Scissors" rel="nofollow">Live Demo</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Rock-Paper-Scissors" target="_blank" rel="nofollow">Live Demo</a></td>
    <td><img src="" alt="" ></td>
 </tr>
 <tr>
 <td align="center">11</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/To-Do">To-Do</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/To-Do" rel="nofollow">Live Demo</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/To-Do" target="_blank" rel="nofollow">Live Demo</a></td>
    <td><img src="" alt="" ></td>
 </tr>
 <tr>
 <td align="center">12</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Todo-localStorage">Todo-localStorage</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Todo-localStorage" rel="nofollow">Live Demo</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Todo-localStorage" target="_blank" rel="nofollow">Live Demo</a></td>
    <td><img src="" alt="" ></td>
 </tr>
 <tr>
 <td align="center">13</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Weather-App">Weather-App</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Weather-App" rel="nofollow">Live Demo</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Weather-App" target="_blank" rel="nofollow">Live Demo</a></td>
    <td><img src="" alt="" ></td>
 </tr>
 <tr>
 <td align="center">14</td>
-<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Weather">Weather</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Weather" rel="nofollow">Live Demo</a></td>
-   <td><img src="" alt="" ></td>
+<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Async-Person">Async-Person</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Async-Person">Live Demo</a></td>
+  <td><img src="" alt="" ></td>
 </tr>
 
 </tbody>
