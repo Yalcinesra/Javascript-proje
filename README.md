@@ -56,8 +56,8 @@
 </tr>
 <tr>
 <td align="center">08</td>
-<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Js-To-Do-App">Js-To-Do-App</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Js-To-Do-App" rel="nofollow">Live Demo</a></td>
+<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/JS-To-Do-App">Js-To-Do-App</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/JS-To-Do-App" rel="nofollow">Live Demo</a></td>
    <td><img src="" alt="" ></td>
 </tr>
 <tr>
