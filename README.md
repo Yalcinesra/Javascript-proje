@@ -14,7 +14,7 @@
   <tr>
 <td align="center">01</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Weather">Weather</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Weather" target="_blank" rel="nofollow">Live Demo</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Weather" target="blank" rel="nofollow">Live Demo</a></td>
    <td><img src="" alt="" ></td>
 </tr>
 
