@@ -46,7 +46,7 @@
 <td align="center">06</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Digital-clock">Digital Clock</a></td>
 <td><a href="https://yalcinesra.github.io/Javascript-project/Digital-clock" rel="nofollow">Live Demo</a></td>
-   <td><img src="" alt="" ></td>
+   <td><img src="https://github.com/Yalcinesra/Javascript-project/blob/main/Digital-clock/clock.gif" height="300" width="450" alt="" ></td>
 </tr>
 <tr>
 <td align="center">07</td>
