@@ -13,11 +13,11 @@
 <tbody>
   <tr>
 <td align="center">01</td>
-<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Weather">Weather</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Weather" target="blank" rel="nofollow">Live Demo</a></td>
-   <td><img src="" alt="" ></td>
+<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Weather-App">Weather-App</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Weather-App" target="_blank" rel="nofollow">Live Demo</a></td>
+   <td><img src="https://github.com/Yalcinesra/Javascript-project/blob/main/Weather-App/weather_app.gif" alt="" ></td>
 </tr>
-
+  
 <tr>
 <td align="center">02</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Async-Project-1">Async-Project-1</a></td>
@@ -86,8 +86,8 @@
 </tr>
 <tr>
 <td align="center">13</td>
-<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Weather-App">Weather-App</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Weather-App" target="_blank" rel="nofollow">Live Demo</a></td>
+<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Weather">Weather</a></td>
+<td><a href="https://yalcinesra.github.io/Javascript-project/Weather" target="blank" rel="nofollow">Live Demo</a></td>
    <td><img src="" alt="" ></td>
 </tr>
 <tr>
